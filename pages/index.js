@@ -24,7 +24,7 @@ const Page = () => {
         <Box dislpay={{ md: 'flex' }} delay={0.1}>
           <Box flexGrow={1}>
             <Heading as="h2" variant="page-title" id="headertext">
-              <p>Invitation to be my valentine's date </p>
+              <p>Invitation to be my valentine&apos;s date </p>
             </Heading>
           </Box>
 
@@ -64,7 +64,7 @@ const Page = () => {
 
             dein BabyBeo hier. Zum Jahre 2023 werde ich dich hiermit und endlich wie
             Baby es immer wünscht offiziel mit diesem Text einladen. 
-            <p>Babylein willst du mein Valentine's Baby sein?</p>
+            <p>Babylein willst du mein Valentine&apos;s Baby sein?</p>
             <p>Wenn Ja, dann drücke bitte den darunter liegenden Knopf.</p>
             Wenn Nein, dann drücke bitte den darunter liegenden Knopf.
 
