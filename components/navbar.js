@@ -13,7 +13,7 @@ import ThemetoggleButton from './theme-toggle-button'
 
 
 const Navbar = props => {
-  const { path } = props
+  const { } = props
 
   return (
     <Box
